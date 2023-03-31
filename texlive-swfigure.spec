@@ -1,6 +1,6 @@
 Name:		texlive-swfigure
 Version:	63255
-Release:	1
+Release:	2
 Summary:	Insert large images that do not fit into a single page
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/swfigure
