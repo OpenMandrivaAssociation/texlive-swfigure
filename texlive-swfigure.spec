@@ -3,7 +3,7 @@ Version:	63255
 Release:	2
 Summary:	Insert large images that do not fit into a single page
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/swfigure
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/swfigure
 License:	lppl1.3c
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/swfigure.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/swfigure.doc.r%{version}.tar.xz
